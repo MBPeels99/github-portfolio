@@ -1,0 +1,42 @@
+[
+    {
+        "id": "project1",
+        "title": "A Cyberpunk Themed Website",
+        "date": "January 05, 2024",
+        "description": "As a fan of Cyperpunk 2077 a game created by CD Project Red, I was inspired to make a fake website that could be used for tourists to get to know the city and possibly plan a trip to Night City and its many districts",
+        "image": "images/Night_City_Default_Page.PNG",
+        "link": "https://github.com/MBPeels99/cyberpunk-asp.net-website/tree/master/Night_City"
+    },
+    {
+        "id": "project2",
+        "title": "Yahtzee Online Game <br/> Using Laravel",
+        "date": "September 07, 2023",
+        "description": "This was a practice project for how fast I could learning a new framework, Laraval, from my experience coding in PHP and HTML. The idea of the porject is that you are able to play Yahtzee with your friends, in turn based way and the idea was to turn the game into a multiplayer game.",
+        "image": "images/Yahtzee_Laravel_Game.PNG",
+        "link": "https://github.com/MBPeels99/laravel_yahtzee_game/tree/master"
+    },
+    {
+        "id": "project3",
+        "title": "Metroid-Vania Game<br /> Using JavaScript",
+        "date": "October 28, 2023",
+        "description": "As a big fan of game, I challenged myself to create a metroid vania type style game. I wanted only to use HTML and JavaScript to challenge my knowlegde and skills with these programming languages. With it I also learned how to use the tool Aseprite to draw pixel art. I also focused on the idea of version control as own practice.",
+        "image": "images/HacknSlash.PNG",
+        "link": "https://github.com/MBPeels99/javascript_hacknslash/tree/master"
+    },
+    {
+        "id": "project4",
+        "title": "Dreamride<br /> Using HTML,Vue.js and PHP",
+        "date": "October 28, 2023",
+        "description": "This was my first group project I worked on during my training course at Educom. One of members had inspriation to develope a website where children can visit and create their own stories and and have a social media platform where they could use their creativeness to maybe have another book published in a possible series of books. I was in charge developing the database and any code rleated to it and later in the project I was in control of the backend of the website and most of the javascript used in vue.",
+        "image": "images/Dreamride.PNG",
+        "link": "https://github.com/MBPeels99/dreamride/tree/master"
+    },
+    {
+        "id": "project5",
+        "title": "Keep Calm and Gym On Website<br /> Using C#</a>",
+        "date": "October 24, 2023",
+        "description": "This website was a group project we did on university. They idea was to use planning principles we learned during the course of the module and then create a final project from the planning. I was lead programmer of the website. I used the MVC principles to separate View from the Controllers and Models.",
+        "image": "images/KeepCalmAndGymOn.PNG",
+        "link": "https://github.com/MBPeels99/KeepCalmAndGymOn/tree/master"
+    }
+]
