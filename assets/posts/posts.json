@@ -38,5 +38,13 @@
         "description": "A university group project, this website was a practical application of our learning in planning principles. I led the development, utilizing MVC principles to effectively separate the Views from the Controllers and Models.",
         "image": "images/KeepCalmAndGymOn.PNG",
         "link": "https://github.com/MBPeels99/KeepCalmAndGymOn/tree/master"
+    },
+    {
+        "id": "project6",
+        "title": "First Person Shooter Wolfenstein Style <br /> Using Python</a>",
+        "date": "December 7, 2023",
+        "description": "In my exploration of game mechanics, I discovered an instructional YouTube video detailing the creation of a Wolfenstein-style first-person shooter in Python. Inspired by this, I aim to enhance my project by adding additional levels, items, and standard game mechanics, further developing my skills in game development.",
+        "image": "images/fps_wolfenstein.PNG",
+        "link": "https://github.com/MBPeels99/fps-wolfenstein"
     }
 ]
