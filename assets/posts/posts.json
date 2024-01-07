@@ -2,7 +2,7 @@
     {
         "id": "project1",
         "title": "A Cyberpunk Themed Website",
-        "date": "January 05, 2024",
+        "date": "January 07, 2024",
         "description": "Inspired by the game Cyberpunk 2077 by CD Projekt Red, I designed a fictional website for tourists interested in exploring Night City and its various districts, offering a unique digital experience to plan their visit.",
         "image": "images/Night_City_Default_Page.PNG",
         "link": "https://github.com/MBPeels99/cyberpunk-asp.net-website/tree/master/Night_City"
