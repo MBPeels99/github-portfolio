@@ -46,5 +46,21 @@
         "description": "In my exploration of game mechanics, I discovered an instructional YouTube video detailing the creation of a Wolfenstein-style first-person shooter in Python. Inspired by this, I aim to enhance my project by adding additional levels, items, and standard game mechanics, further developing my skills in game development.",
         "image": "images/fps_wolfenstein.PNG",
         "link": "https://github.com/MBPeels99/fps-wolfenstein"
+    },
+    {
+        "id": "project7",
+        "title": "Model Playing Super Mario <br /> Using Python</a>",
+        "date": "December 6, 2023",
+        "description": "Driven by my keen interest in AI and modeling, I embarked on a journey to explore this field further. I engaged with various tutorials to create and train a model to play Super Mario. For convenience and efficiency, I utilized Jupyter Notebook as my primary platform. This endeavor involved leveraging numerous libraries to facilitate the training process. The foundation of my model is the Proximal Policy Optimization (PPO) method, which guided its development and learning strategy.",
+        "image": "images/SI_3DSVC_SuperMarioBros.PNG",
+        "link": "https://github.com/MBPeels99/ai-super-mario"
+    },
+    {
+        "id": "project8",
+        "title": "First Basic Chatbot <br /> Using PHP</a>",
+        "date": "October 28, 2023",
+        "description": "Motivated by a desire to innovate and deepen my understanding of AI, I embarked on an ambitious project to develop my own chatbot from the ground up. With PHP as my primary programming language, I chose it for this venture. This decision allowed me to experiment and craft an AI that engages in basic communication with users. While the chatbot is still in its nascent stages, it represents a significant step in my journey of learning and creating in the field of artificial intelligence.",
+        "image": "images/Image_-_Chatbot.PNG",
+        "link": "https://github.com/MBPeels99/php-chatbot"
     }
 ]
