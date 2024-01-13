@@ -1,0 +1,8 @@
+.hidden {
+    display: none;
+}
+
+.read-more {
+    color: blue;
+    cursor: pointer;
+}
