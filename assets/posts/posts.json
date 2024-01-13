@@ -62,5 +62,13 @@
         "description": "Motivated by a desire to innovate and deepen my understanding of AI, I embarked on an ambitious project to develop my own chatbot from the ground up. With PHP as my primary programming language, I chose it for this venture. This decision allowed me to experiment and craft an AI that engages in basic communication with users. While the chatbot is still in its nascent stages, it represents a significant step in my journey of learning and creating in the field of artificial intelligence.",
         "image": "images/Image_-_Chatbot.PNG",
         "link": "https://github.com/MBPeels99/php-chatbot"
+    },
+    {
+        "id": "project9",
+        "title": "ML Model Analyzing MNIST dataset <br /> Using PHP</a>",
+        "date": "January 07, 2024",
+        "description": "In this project, I embarked on an educational journey to deepen my understanding of machine learning models by constructing one from the ground up. The foundational aspect of the project utilizes the renowned MNIST dataset, an extensive collection of handwritten digits, as a basis for developing and training the model. This dataset, known for its comprehensive and varied examples of numerical handwriting, provided an ideal starting point for my exploration. The initial phase involved meticulously analyzing these handwritten numbers, an endeavor in which the model demonstrated a notable level of accuracy and efficiency. This success in deciphering static images of handwritten digits served as a solid foundation for the more ambitious aspect of the project. The second phase of the project posed a greater challenge: integrating live input from a camera to recognize and interpret handwritten digits in real-time. Although this component has proven to be more complex and is yet to yield successful results, it represents a significant leap in the application of the model, aiming to bridge the gap between static image recognition and dynamic, real-world interaction. Despite the challenges encountered in this stage, I remain committed to advancing the project. Continuous efforts are being directed towards refining the model's capabilities to effectively process and understand live handwritten digits, a pursuit that not only enhances the model's practical applications but also contributes to my personal growth in the realm of machine learning.",
+        "image": "images/mnist-3.0.1.png",
+        "link": "https://github.com/MBPeels99/MNIST-dataset-analyze-model"
     }
 ]
