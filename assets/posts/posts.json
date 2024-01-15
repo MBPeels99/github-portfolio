@@ -72,6 +72,14 @@
         "link": "https://github.com/MBPeels99/MNIST-dataset-analyze-model"
     },
     {
+        "id": "project10",
+        "title": "Simple Car Dashboard Simulator <br /> Using Java</a>",
+        "date": "April 18, 2023",
+        "description": "This project served as a rigorous test of my expertise in object-oriented programming, particularly focusing on abstract classes and inheritance. It aimed to demonstrate my ability to integrate external components, a key aspect being the Medusa package, which I utilized to craft a sophisticated car simulator. The challenge involved not only understanding the Medusa package but also effectively combining it with JavaFX to develop a rich and interactive application. This endeavor allowed me to showcase my technical skills in software development and deepen my understanding of object-oriented principles. The successful creation of the car simulator using these tools highlights my proficiency in synthesizing diverse software elements into a functional and user-friendly system. This experience has significantly enhanced my programming capabilities, particularly in designing scalable and maintainable code structures, and has prepared me for tackling complex challenges in future software projects.",
+        "image": "images/Car_simulator.PNG",
+        "link": "https://github.com/MBPeels99/car-dashboard-simulator"
+    },
+    {
         "id": "project11",
         "title": "Simple Book Shop Inventory Management <br /> Using C#</a>",
         "date": "May 02, 2023",
