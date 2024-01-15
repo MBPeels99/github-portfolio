@@ -78,5 +78,13 @@
         "description": "This project represents a simple Book Shop Inventory Management System, meticulously designed to streamline the management and organization of a bookshop's inventory. At its core, the program is engineered to provide an intuitive and user-friendly interface for performing comprehensive CRUD (Create, Read, Update, Delete) operations on a book database. The system is tailored to cater to the dynamic needs of bookshop operations, enabling users to efficiently manage a vast array of book-related information. Key functionalities include the ability to add new book entries to the inventory (Create), seamlessly browse through the existing catalogue of books (Read), update details of the books (Update), and remove books from the inventory as required (Delete). Each aspect of the program is crafted with precision, ensuring that users can easily navigate through the system and perform the desired operations with minimal effort and maximum efficiency.",
         "image": "images/BookShop.PNG",
         "link": "https://github.com/MBPeels99/book-shop"
+    },
+    {
+        "id": "project12",
+        "title": "Simple Arcade Shooting Game <br /> Using C#</a>",
+        "date": "April 20, 2023",
+        "description": "This application is a dynamic blend of user authentication, database interaction, and arcade-style gaming. It features a secure sign-up and login system with robust validation, ensuring user data integrity. Once logged in, users can access and interact with a database, viewing other users' profiles and high scores, which adds a competitive and social aspect to the experience. The centerpiece of the application is an exciting arcade shooter game where players aim to hit green targets within a one-minute timeframe. This game tests users' reflexes and accuracy, with each player's score being recorded and contributing to their overall ranking. Overall, this application offers an engaging combination of secure user management, social database interaction, and thrilling gameplay, making it an attractive and multifunctional platform for users seeking both entertainment and a sense of community.",
+        "image": "images/Arcade_shooter.PNG",
+        "link": "https://github.com/MBPeels99/arcade_shooter"
     }
 ]
