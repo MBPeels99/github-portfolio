@@ -2,7 +2,7 @@
     display: none;
 }
 
-.read-more {
+.read-more, .show-less {
     color: blue;
     cursor: pointer;
 }

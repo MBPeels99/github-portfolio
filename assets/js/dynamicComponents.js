@@ -66,7 +66,8 @@ function shortenText(text, maxLength) {
     return `
         <span class="short-text">${shortened}</span>
         <span class="full-text hidden">${text}</span>
-        <a href="#" class="read-more">Read More</a>`;
+        <a href="#" class="read-more">Read More</a>
+        <a href="#" class="show-less hidden">Show Less</a>`;
 }
 
 document.addEventListener('click', function(e) {
@@ -76,5 +77,13 @@ document.addEventListener('click', function(e) {
         parent.querySelector('.short-text').classList.add('hidden');
         parent.querySelector('.full-text').classList.remove('hidden');
         e.target.classList.add('hidden');
+        parent.querySelector('.show-less').classList.remove('hidden');
+    } else if (e.target && e.target.classList.contains('show-less')) {
+        e.preventDefault();
+        let parent = e.target.parentNode;
+        parent.querySelector('.short-text').classList.remove('hidden');
+        parent.querySelector('.full-text').classList.add('hidden');
+        e.target.classList.add('hidden');
+        parent.querySelector('.read-more').classList.remove('hidden');
     }
 });
